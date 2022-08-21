@@ -587,7 +587,7 @@ msgstr "Bestaande %s map verwijderen..."
 
 #: scripts/makepkg.sh.in:1683
 msgid "Sources are ready."
-msgstr "Bronned zijn gereed."
+msgstr "Bronnen zijn gereed."
 
 #: scripts/makepkg.sh.in:1710
 msgid "Package directory is ready."
